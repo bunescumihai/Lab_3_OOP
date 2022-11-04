@@ -11,6 +11,7 @@ public class Main  {
 
         Matematica matematica = new Matematica();
         System.out.println(matematica.adunare(3,4));
+
         TelevizorulMeu televizorulMeu = new TelevizorulMeu(810,25,600);
         televizorulMeu.aprindeTelevizor();
         System.out.println("Televizorul s-a aprins");
